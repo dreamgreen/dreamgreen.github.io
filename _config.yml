@@ -7,12 +7,12 @@
 
 # Site settings
 title: Gravity
-email: hemangsk@gmail.com
+email: kamlekar.venkatesh@gmail.com
 description: The Liberal Jekyll Theme
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+twitter_username: feedmeaddiction
+github_username:  kamlekar
 
 # Build settings
 markdown: kramdown
