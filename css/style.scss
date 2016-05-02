@@ -377,7 +377,7 @@ pre {
   font-family: 'PT Sans';
   text-transform: capitalize;
   font-weight: 500;
-  margin-top: 1em;
+  /* margin-top: 1em; */
   &,
   &:visited {
     color: $grey-color-dark;
@@ -401,14 +401,14 @@ pre {
   text-indent: 6px;
   font-family: 'Josefin Sans';
   font-weight: 300;
-  padding-top: 5em;
+  padding-top: 2em;
 }
 .page-title {
   text-transform: uppercase;
   letter-spacing: 2px;
   text-indent: 2px;
   font-family: "PT Sans";
-  font-size: 12px;
+  /* font-size: 12px; */
 }
 .page-tagline {
   font-size: 18px;
@@ -567,6 +567,7 @@ pre {
  */
 .post-header {
   margin-bottom: $spacing-unit;
+  margin-top: 20px;
 }
 .post-title {
   font-size: 62px;
