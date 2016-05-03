@@ -19,12 +19,12 @@ Start reading the content [here](/about-earth)
 
 ## Contribution guidelines
 
-
+- Go to [Github page](https://github.com/dreamgreen/dreamgreen.github.io) to start contributing.
 - Please don't explain everything in deep or go in technical aspects. Try to keep the content as simple as possible.
 - Provide external links if deep explanation is needed. Here are some valid examples to attach external links:
     - [Greenhouse gases](https://en.wikipedia.org/wiki/Greenhouse_gas)
     - Greenhouse gases <sup>[link](https://en.wikipedia.org/wiki/Greenhouse_gas)</sup>
-    - [Greenhouse gases](/technical/greenhouse.md) (_providing content in this same repo in the folder `technical`_)
+    - [Greenhouse gases](/technical/greenhouse.md) (_providing content in this same repo in the folder `{{ github page}}/technical`_)
 
 - Always try to link external relevant resources to your content so that  people can believe it.
 - Please also cite the content with link if it is copied from external source. But try to avoid copying content from external resources, instead explain in your own words.
