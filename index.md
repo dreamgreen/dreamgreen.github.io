@@ -28,6 +28,7 @@ Start reading the content [here](/about-earth)
 
 - Always try to link external relevant resources to your content so that  people can believe it.
 - Please also cite the content with link if it is copied from external source. But try to avoid copying content from external resources, instead explain in your own words.
+- To gather content, read lot of data. reassure yourself by visiting at least two different sources. You can start reading resources [here](/further-reading) to gather content.
 
 ##### Example:
 

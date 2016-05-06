@@ -240,8 +240,9 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    // max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+    // max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width: 1024px;
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
@@ -675,4 +676,26 @@ pre {
     .vg    { color: #008080 } // Name.Variable.Global
     .vi    { color: #008080 } // Name.Variable.Instance
     .il    { color: #099 } // Literal.Number.Integer.Long
+}
+
+.github-contribute{
+    position: fixed;
+    padding: 10px 30px;
+    background-color: grey;
+    color: white !important;
+    transform: rotate(45deg);
+    width: 300px;
+    top: 60px;
+    display: block;
+    text-align: center;
+    right: -100px;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    background-image: linear-gradient(0deg, transparent 0%, transparent 9%, white 10%, transparent 11%, transparent 89%, white 90%, transparent 91%);
+    &:hover{
+        border-bottom: none;
+        color: white !important;
+    }
 }
